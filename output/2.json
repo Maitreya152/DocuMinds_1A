@@ -1,0 +1,135 @@
+{
+    "title": "A Paradigm Shift: The Future of Machine Translation Lies with",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Large Language Models",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Teresa Lynn1, Alham Fikri Aji1, Derek F. Wong2, Siyou Liu2, Longyue Wang5",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Introduction",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Challenging MT Scenarios",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "Long-Document Translation",
+            "page": 3
+        },
+        {
+            "level": "H4",
+            "text": "and Junczys-Dowmunt, 2023), which can some-",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Interactive Translation",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "Bilingual Terminology",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "Stylised Translation",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "Translation Memory-based MT",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "Multi-modal Translation",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "New Evaluation Paradigm for LLMs-based MT",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Privacy in MT using LLMs",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Discussion",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "Experiments and Analysis on Translation Performance of LLMs",
+            "page": 9
+        },
+        {
+            "level": "H3",
+            "text": "Error Rate Analysis",
+            "page": 9
+        },
+        {
+            "level": "H3",
+            "text": "Chinese-to-English Translation Performance",
+            "page": 9
+        },
+        {
+            "level": "H3",
+            "text": "Document-level Translation Performance",
+            "page": 9
+        },
+        {
+            "level": "H2",
+            "text": "Conclusion",
+            "page": 9
+        },
+        {
+            "level": "H2",
+            "text": "Acknowledgements",
+            "page": 10
+        },
+        {
+            "level": "H4",
+            "text": "guage Processing. Association for Computa-",
+            "page": 10
+        },
+        {
+            "level": "H4",
+            "text": "study and comprehensive evaluation of Chat-",
+            "page": 11
+        },
+        {
+            "level": "H4",
+            "text": "Privacy-preserving prompt tuning for large lan-",
+            "page": 12
+        },
+        {
+            "level": "H4",
+            "text": "alized machine translation: Preserving original",
+            "page": 12
+        },
+        {
+            "level": "H4",
+            "text": "neural machine translation formality with syn-",
+            "page": 12
+        },
+        {
+            "level": "H4",
+            "text": "tional relationships with editing operations. In",
+            "page": 14
+        }
+    ]
+}

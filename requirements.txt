@@ -1,0 +1,5 @@
+PyMuPDF
+pdfplumber
+numpy
+scikit-learn
+matplotlib
